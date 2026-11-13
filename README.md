@@ -145,6 +145,31 @@ git clone https://github.com/Vishwajeetsingh22/JollyPhonics-Android-App.git
 
 7. Grant microphone permission when prompted to use voice recording.
 
+## 📸 Application Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <b>1. Home Screen</b><br/>
+      <img src="screenshots/01_Home_Screen.png.jpeg" width="250" alt="Home Screen"/>
+    </td>
+    <td align="center">
+      <b>2. Phonics Learning Screen</b><br/>
+      <img src="screenshots/02_Phonics_Learning.png.jpeg" width="250" alt="Phonics Learning Screen"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>3. Alphabet Grid Screen</b><br/>
+      <img src="screenshots/03_Alphabet_Grid.png.jpeg" width="250" alt="Alphabet Grid Screen"/>
+    </td>
+    <td align="center">
+      <b>4. My Voice Recordings</b><br/>
+      <img src="screenshots/04_My_Recordings.png.jpeg" width="250" alt="My Voice Recordings"/>
+    </td>
+  </tr>
+</table>
+
 ## 🔐 Permissions
 
 The application requires microphone permission for voice recording.
