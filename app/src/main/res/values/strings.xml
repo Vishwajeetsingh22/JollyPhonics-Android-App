@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JollyPhonics</string>
+    <string name="app_subtitle">Learn English Phonics A–Z</string>
+    <string name="start_learning">Start Learning</string>
+    <string name="view_recordings">View My Recordings</string>
+    <string name="play_pronunciation">Play Pronunciation</string>
+    <string name="start_recording">Record Voice</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="status_ready">Ready to record</string>
+    <string name="status_recording">Recording in progress…</string>
+    <string name="status_recorded">Recording saved successfully!</string>
+    <string name="choose_letter">Choose a Letter (A–Z)</string>
+</resources>
